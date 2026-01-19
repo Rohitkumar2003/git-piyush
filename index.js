@@ -9,4 +9,8 @@ const user1 = (userName,emailid,mobileNumber)=>{
 
  user1(userName,mobileNumber,emailid)
 
+ const isAbove18 = () => {
+    return age >=18 
+ }
+
 
