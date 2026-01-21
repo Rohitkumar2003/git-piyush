@@ -16,5 +16,7 @@ const user1 = (userName,emailid,mobileNumber)=>{
  
  function newFeatureAdd() {
     console.log(`This is new feature`);
+    console.log(`This is new feature A`);
+
  }
   
