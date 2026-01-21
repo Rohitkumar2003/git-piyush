@@ -29,3 +29,11 @@ const user1 = (userName,emailid,mobileNumber)=>{
 
  generateOTP(9027343423);
   
+
+ function add(a,b){
+    return a+b;
+ }
+
+ add(3,4);
+
+ console.log(` c`);
