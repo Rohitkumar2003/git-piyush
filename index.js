@@ -13,4 +13,8 @@ const user1 = (userName,emailid,mobileNumber)=>{
     return age >=18 
  }
 
-
+ 
+ function newFeatureAdd() {
+    console.log(`This is new feature`);
+ }
+  
